@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
 
 <h1 align="center">Hi 👋, I'm José Ricardo!</h1>
-<h3 align="center">I love free and open sourced software!</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=I+love+free+and+open+sourced+software!;I+like+to+learn+how+to+use+new+technologies!;I+love+coding!;I+love+GNU%2FLinux!;Debian+is+like+a+piece+of+me+nowadays..." alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **GoLang, React/Redux, ReactiveX, PHP, Javascript & Bootstrap.**
