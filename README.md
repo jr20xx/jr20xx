@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
+
 <h1 align="center">Hi 👋, I'm José Ricardo!</h1>
 <h3 align="center">I love free and open sourced software!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
 
 - 🌱 I’m currently learning **GoLang, React/Redux, ReactiveX, PHP, Javascript & Bootstrap.**
 
