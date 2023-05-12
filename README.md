@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jr20xx" alt="jr20xx" /></a> </p>
-
 - 🌱 I’m currently learning **GoLang, React, ReactiveX, PHP & Bootstrap.**
 
 - 📫 How to reach me **https://t.me/jr20xx.**
@@ -17,3 +15,5 @@
 <div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en" alt="jr20xx"/></div>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&" alt="jr20xx" /></div>
+
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jr20xx" alt="jr20xx"/></a> </div>
