@@ -14,6 +14,6 @@
 
 <div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en" alt="jr20xx"/></div>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&" alt="jr20xx" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark" alt="jr20xx" /></div>
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jr20xx&theme=onedark" alt="jr20xx"/></a> </div>
