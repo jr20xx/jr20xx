@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%27m%20Jos%C3%A9%20Ricardo!&fontSize=70" alt="Hi, I'm José Ricardo!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70" alt="Hi, I'm José Ricardo!"/>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=I+love+free+and+open+sourced+software!;I+like+to+learn+how+to+use+new+technologies!;I+love+coding!;I+love+GNU%2FLinux!;Debian+is+like+a+piece+of+me+nowadays..." alt="Typing SVG" /></a>
