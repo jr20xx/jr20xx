@@ -1,22 +1,116 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jr20xx&label=Profile%20views&color=0e75b6&style=flat" alt="jr20xx" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=jr20xx&label=Views&color=cb1f1f&style=flat-square)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70" alt="Hi, I'm José Ricardo!"/>
-</div>
+![Hi, I'm José Ricardo](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=I+love+free+and+open+sourced+software!;I+like+to+learn+how+to+use+new+technologies!;I+love+coding!;I+love+GNU%2FLinux!;Debian+is+like+a+piece+of+me+nowadays..." alt="Typing SVG" /></a>
+![Typing message](https://readme-typing-svg.demolab.com?font=VT323&size=53&pause=1500&color=FF0000&center=true&vCenter=true&width=1200&height=60&separator=%3C&lines=Welcome+to+my+profile!%3CI+use+Debian%2C+BTW+%3CI+love+free+and+open+sourced+software!%3CI+love+coding!%3CPlease%2C+star+my+repos+if+you+find+anything+helpful+in+them%3CI+like+stars+very+much!)
 
-- 🌱 I’m currently learning **GoLang, React/Redux, ReactiveX, PHP, Javascript & Bootstrap.**
+<table align="center">
+    <tr>
+        <td>
+            <img height="45px" src="./programming.gif"/>
+        </td>
+        <td>
+            <h4>Languages and Tools</h4>
+        </td>
+    </tr>
+</table>
 
-- 📫 How to reach me **https://t.me/jr20xx**.
+![](https://img.shields.io/badge/bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/linux_mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/xfce-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
+![](https://img.shields.io/badge/gnu_bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/android_studio-073042?style=for-the-badge&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<table align="center">
+    <tr>
+        <td>
+            <img height="45px" src="./trophy.gif"/>
+        </td>
+        <td>
+            <h4>Trophies</h4>
+        </td>
+    </tr>
+</table>
 
-<details close="true">
-  <summary><b>GitHub stats</b></summary>
-    <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jr20xx&theme=onedark" alt="jr20xx"/></a></div>
-    <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark" alt="jr20xx"/></div>
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en&theme=onedark" alt="jr20xx"/></div>
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jr20xx"/></div>
-</details>
+![](https://github-profile-trophy.vercel.app/?username=jr20xx&theme=onedark)
+
+<table align="center">
+    <tr>
+        <td>
+            <img height="45px" src="./stats.gif"/>
+        </td>
+        <td>
+            <h4>Statistics</h4>
+        </td>
+    </tr>
+</table>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=jr20xx&bg_color=282c34&color=ffffff&line=cb1f1f&point=af6464&area=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark)
+
+![](https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en&theme=onedark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&theme=onedark)
+
+<table align="center">
+    <tr>
+        <td>
+            <img height="45px" src="./social.gif"/>
+        </td>
+        <td>
+            <h4>Contact info</h4>
+        </td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://www.sololearn.com/Profile/20282732/?ref=app"> 
+                <img src="https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
+            </a>
+            <br/>
+            <a href="https://stackoverflow.com/users/15796047/"> 
+                <img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+            </a>
+            <br/>
+            <a href="https://t.me/jr20xx"> 
+                <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+            </a>
+            <br/>
+            <a href="https://www.facebook.com/jr20xx"> 
+                <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+            </a>
+            <br/>
+            <a href="https://www.instagram.com/jr20nn"> 
+                <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+            </a>
+        </td>
+        <td>
+            <img height="150px" width="167" src="./link.gif"/>
+        </td>
+    </tr>
+</table>
