@@ -2,7 +2,7 @@
 
 ![Hi, I'm José Ricardo](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70)
 
-![Typing message](https://readme-typing-svg.demolab.com?font=VT323&size=53&pause=1500&color=FF0000&center=true&vCenter=true&width=1200&height=60&separator=%3C&lines=Welcome+to+my+profile!%3CI+use+Debian%2C+BTW+%3CI+love+free+and+open+sourced+software!%3CI+love+coding!%3CPlease%2C+star+my+repos+if+you+find+anything+helpful+in+them%3CI+like+stars+very+much!)
+![Typing message](https://readme-typing-svg.demolab.com?font=VT323&size=53&pause=1500&color=FF0000&center=true&vCenter=true&width=1200&height=60&separator=%3C&lines=Welcome+to+my+profile!%3CI+use+Arch%2C+BTW+%3CI+love+FOSS!%3CI+love+coding!%3CPlease%2C+star+my+repos+if+you+find+anything+helpful+in+them%3CI+like+stars+very+much!)
 
 <table align="center">
     <tr>
@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/linux_mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/xfce-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
+![](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -105,6 +105,9 @@
             <a href="https://www.instagram.com/jr20nn"> 
                 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
             </a>
+            <br/>
+            <a href="https://www.threads.net/@jr20nn"> 
+                <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
         </td>
         <td>
             <img height="150px" width="167" src="./link.gif"/>
