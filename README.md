@@ -107,7 +107,7 @@
             </a>
             <br/>
             <a href="https://www.threads.net/@jr20nn"> 
-                <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+                <img src="https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads&logoColor=white"/>
         </td>
         <td>
             <img height="150px" width="167" src="./link.gif"/>
