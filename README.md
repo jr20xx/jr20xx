@@ -64,6 +64,8 @@
     </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jr20xx&theme=onedark)
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=jr20xx&bg_color=282c34&color=ffffff&line=cb1f1f&point=af6464&area=true&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark)
