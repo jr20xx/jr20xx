@@ -72,7 +72,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en&theme=onedark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&langs_count=20&theme=onedark)
 
 <table align="center">
     <tr>
