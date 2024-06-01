@@ -88,10 +88,6 @@
 <table align="center">
     <tr>
         <td>
-            <a href="https://www.sololearn.com/Profile/20282732/?ref=app"> 
-                <img src="https://img.shields.io/badge/sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
-            </a>
-            <br/>
             <a href="https://stackoverflow.com/users/15796047/"> 
                 <img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
             </a>
