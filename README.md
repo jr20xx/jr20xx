@@ -15,11 +15,9 @@
     </tr>
 </table>
 
-![](https://img.shields.io/badge/bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
