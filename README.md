@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
