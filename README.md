@@ -20,8 +20,6 @@
 ![](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,8 +34,6 @@
 ![](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/android_studio-073042?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![](https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <table align="center">
