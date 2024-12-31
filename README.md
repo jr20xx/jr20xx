@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
