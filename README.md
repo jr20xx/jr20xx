@@ -1,8 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=jr20xx&label=Views&color=cb1f1f&style=flat-square)
+[![Profile views](https://komarev.com/ghpvc/?username=jr20xx&label=Views&color=cb1f1f&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 
-![Hi, I'm José Ricardo](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70)
+[![Hi, I'm José Ricardo](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70)](https://github.com/kyechan99/capsule-render)
 
-![Typing message](https://readme-typing-svg.demolab.com?font=VT323&size=53&pause=1500&color=FF0000&center=true&vCenter=true&width=1200&height=60&separator=%3C&lines=Welcome+to+my+profile!%3CI+use+Arch%2C+BTW+%3CI+love+FOSS!%3CI+love+coding!%3CPlease%2C+star+my+repos+if+you+find+anything+helpful+in+them%3CI+like+stars+very+much!)
+[![Typing message](https://readme-typing-svg.demolab.com?font=VT323&size=53&pause=1500&color=FF0000&center=true&vCenter=true&width=1200&height=60&separator=%3C&lines=Welcome+to+my+profile!%3CI+use+Arch%2C+BTW+%3CI+love+FOSS!%3CI+love+coding!%3CPlease%2C+star+my+repos+if+you+find+anything+helpful+in+them%3CI+like+stars+very+much!)](https://git.io/typing-svg)
 
 <table align="center">
     <tr>
@@ -49,7 +49,7 @@
     </tr>
 </table>
 
-![](https://github-profile-trophy.vercel.app/?username=jr20xx&theme=onedark)
+[![](https://github-profile-trophy.vercel.app/?username=jr20xx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table align="center">
     <tr>
@@ -62,15 +62,15 @@
     </tr>
 </table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jr20xx&theme=onedark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jr20xx&theme=onedark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=jr20xx&bg_color=282c34&color=ffffff&line=cb1f1f&point=af6464&area=true&hide_border=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=jr20xx&bg_color=282c34&color=ffffff&line=cb1f1f&point=af6464&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jr20xx&theme=onedark)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en&theme=onedark)
+[![](https://github-readme-stats.vercel.app/api?username=jr20xx&show_icons=true&locale=en&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&langs_count=20&theme=onedark)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=jr20xx&show_icons=true&locale=en&layout=compact&langs_count=20&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <table align="center">
     <tr>
