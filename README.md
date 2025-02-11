@@ -27,6 +27,7 @@
 [![](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)](https://reactivex.io/)
+[![](https://img.shields.io/badge/jitpack-000000?style=for-the-badge&logo=reactivex&logoColor=white)](https://jitpack.io/)
 [![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![](https://img.shields.io/badge/gin-008ecf?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
