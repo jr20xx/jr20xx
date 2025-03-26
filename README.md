@@ -1,4 +1,5 @@
 [![Profile views](https://komarev.com/ghpvc/?username=jr20xx&label=Views&color=cb1f1f&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Stars](https://img.shields.io/github/stars/jr20xx?style=flat-square&label=Stars)](https://shields.io/badges/git-hub-users-stars)
 
 [![Hi, I'm José Ricardo](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=fadeIn&text=Hi,%20I%27m%20José%20Ricardo!&fontSize=70)](https://github.com/kyechan99/capsule-render)
 
