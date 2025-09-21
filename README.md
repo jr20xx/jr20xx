@@ -25,6 +25,7 @@
 [![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![](https://img.shields.io/badge/java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![](https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
 [![](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)](https://reactivex.io/)
